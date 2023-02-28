@@ -52,12 +52,18 @@ Those are the resources I used to better understand the agile world.
 * 📗[Nonviolent Communication: A Language of Life](https://www.amazon.it/gp/product/189200528X)
 
 ## Coaching
+* 📗[Coaching Agile Teams](https://www.amazon.it/Coaching-Agile-Teams-Scrummasters-Transition/dp/0321637704)
 * 🇬🇧📃[Shu-Ha-Ri](https://www.scrum.org/resources/blog/shu-ha-ri-professional-coaching) methodology inspired by Aikido masters to teach how to be agile at the scrum team.
 
 ## Organization Design
-* 🇬🇧📃[Teaming options](https://unfix.com/teaming-options)
+* 🇬🇧🎥[unFIX keynote](https://youtu.be/nDpl15zZQdg) by Jurgen Appelo
+* 🇬🇧📃Different [teaming options](https://unfix.com/teaming-options)
 * 📗[Drive: The Surprising Truth About What Motivates Us](https://www.amazon.it/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
 
-##Tecnhical Practices
+## Technical Practices
+* 🇬🇧📃[The Cycles of TDD](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
+* 🇬🇧📃[Integrated Tests Are A Scam - J.B. Rainsberger](https://vimeo.com/80533536) 
+* 📗[Refactoring: Improving the Design of Existing Code - Martin Fowler](https://amzn.to/3fyboRY)
+* 🇬🇧📃Martin Fowler on [Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
 
 
