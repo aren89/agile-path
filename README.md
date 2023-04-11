@@ -43,7 +43,7 @@ Those are the resources I used to better understand the agile world.
 ## Estimation
 * 🇮🇹🎥 Software metrics and [estimations techniques](https://www.youtube.com/watch?v=gYNIs341O0k) by Marco Fracassi
 * 🇬🇧🎥 The [good parts](https://www.youtube.com/watch?v=K6PqofeqoCc) of estimating by Gary Staughan
-* 🇬🇧🎥 Forecasting without [estimatates[(https://www.youtube.com/watch?v=qAMEK36w2as)
+* 🇬🇧🎥 Forecasting without [estimatates](https://www.youtube.com/watch?v=qAMEK36w2as)
 * 🇬🇧🎥 Vasco Duarte on #NoEstimation with [an how-to](https://www.youtube.com/watch?v=cgvB2wWvi8M)
 
 ## Facilitation
