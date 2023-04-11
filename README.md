@@ -15,16 +15,11 @@ Those are the resources I used to better understand the agile world.
 * 🇬🇧📃 The importance to have the [real customer](https://medium.com/serious-scrum/scrum-teams-need-to-know-their-real-customers-ec52cf71c717) at the sprint review`
 * 🇬🇧📃 About [sprint review](https://medium.com/@anca_51481/12-things-you-must-know-about-the-sprint-review-e57cfea4da3d)
 
-## LeSS
-* 🇬🇧🎥 Scaling Agile with Large-Scale Scrum [Craig Larman Keynote video at Ericsonn](https://www.youtube.com/watch?v=Gw1lLt18KzE&ab_channel=CraigLarman)
-* 🇬🇧📃 [Feature Teams](https://less.works/less/structure/feature-teams) vs Component Teams
-* 📗 [Large-Scale Scrum: More with LeSS](https://www.amazon.it/Large-Scale-Scrum-More-Less-Signature/dp/0321985710)
-
 ## Scrum Master
 * 🇬🇧📃 [70 theses](https://age-of-product.com/70-scrum-master-theses/) about Scrum Master that describe your role.
 * 🇬🇧🎥 [Host Leadership](https://vimeo.com/422134332) meetup with Pierluigi Pugliese.
 * 🇮🇹🎥 [Myths about Scrum Master](https://vimeo.com/414450263) meetup with Pierluigi Pugliese.
-* 🇬🇧🎥 [Confession of a Change Agent Henrik Kniberg](https://www.youtube.com/watch?v=c1W6U2duXdI&ab_channel=ScrumUkraine).
+* 🇬🇧🎥 [Confession of a Change Agent Henrik Kniberg](https://www.youtube.com/watch?v=c1W6U2duXdI).
 * 🇬🇧📃 [Inspiration & plan for retrospectives](https://retromat.org/en/)
 * 🇬🇧📃 [Full-time Scrum Master](https://scrummasterchecklist.org/pdf/ScrumMaster_Checklist_12_unbranded.pdf) a daily TODO list for scrum masters.
 * 🇬🇧📃 [Three mistakes Scrum Master usually do](https://www.mountaingoatsoftware.com/blog/three-mistakes-scrum-masters-make-and-how-to-correct-them) and how to fix them.
@@ -46,6 +41,10 @@ Those are the resources I used to better understand the agile world.
 * 🇬🇧📃 [User Story Mapping](https://plan.io/blog/user-story-mapping/)
 
 ## Estimation
+* 🇮🇹🎥 Software metrics and [estimations techniques](https://www.youtube.com/watch?v=gYNIs341O0k) by Marco Fracassi
+* 🇬🇧🎥 The (good parts)[https://www.youtube.com/watch?v=K6PqofeqoCc] of estimating by Gary Staughan
+* 🇬🇧🎥 Forecasting without [estimatates[(https://www.youtube.com/watch?v=qAMEK36w2as)
+* 🇬🇧🎥 Vasco Duarte on #NoEstimation with [an how-to](https://www.youtube.com/watch?v=cgvB2wWvi8M)
 
 ## Facilitation
 * 🇬🇧📃 Ways to improve partecipatory in meetings through [Liberating Structures](https://www.liberatingstructures.com/)
@@ -56,9 +55,16 @@ Those are the resources I used to better understand the agile world.
 * 📗 [Coaching Agile Teams](https://www.amazon.it/Coaching-Agile-Teams-Scrummasters-Transition/dp/0321637704)
 * 🇬🇧📃 [Shu-Ha-Ri](https://www.scrum.org/resources/blog/shu-ha-ri-professional-coaching) methodology inspired by Aikido masters to teach how to be agile at the scrum team.
 
+## LeSS
+* 🇬🇧🎥 Scaling Agile with Large-Scale Scrum [Craig Larman Keynote video at Ericsonn](https://www.youtube.com/watch?v=Gw1lLt18KzE)
+* 🇬🇧📃 [Feature Teams](https://less.works/less/structure/feature-teams) vs Component Teams
+* 📗 [Large-Scale Scrum: More with LeSS](https://www.amazon.it/Large-Scale-Scrum-More-Less-Signature/dp/0321985710)
+
 ## Organization Design
 * 🇬🇧🎥 [unFIX keynote](https://youtu.be/nDpl15zZQdg) by Jurgen Appelo
 * 🇬🇧📃 Different [teaming options](https://unfix.com/teaming-options)
+* 🇬🇧📃 Three type of [product teams](https://www.linkedin.com/pulse/three-product-teams-john-cutler/)
+* 🇬🇧🎥 Have [designers](https://www.youtube.com/watch?v=HdqX4A_3-bA) in the product team by John Cutler
 * 📗 [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.it/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
 
 ## Technical Practices
