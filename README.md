@@ -12,7 +12,7 @@ Those are the resources I used to better understand the agile world.
 * 🇬🇧📃 The official [Scrum guide](https://www.scrumguides.org/scrum-guide.html) 
 * 🇬🇧📃 Everything you should learn about [retrospective](https://retromat.org/blog/getting-started-with-retrospectives/)
 * 🇬🇧📃 Getting retrospective [action done](https://www.benlinders.com/2015/getting-retrospective-actions-done/)
-* 🇬🇧📃 The importance to have the [real customer](https://medium.com/serious-scrum/scrum-teams-need-to-know-their-real-customers-ec52cf71c717) at the sprint review`
+* 🇬🇧📃 The importance to have the [real customer](https://medium.com/serious-scrum/scrum-teams-need-to-know-their-real-customers-ec52cf71c717) at the sprint review
 * 🇬🇧📃 About [sprint review](https://medium.com/@anca_51481/12-things-you-must-know-about-the-sprint-review-e57cfea4da3d)
 
 ## Scrum Master
