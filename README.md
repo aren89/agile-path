@@ -37,8 +37,9 @@ Those are the resources I used to better understand the agile world.
 * 🇮🇹🎥 Where to start and how to split development in User Stories: [Responsive design and analysis XP](https://www.youtube.com/watch?v=4L9aL_W-Uo0) by Matteo Vaccari
 * 🇮🇹📃 [The Elephant Carpaccio](https://www.intre.it/2020/04/28/the-elephant-carpaccio-exercise/)
 * 🇬🇧📃 [Splitting strategies](https://medium.com/the-liberators/10-powerful-strategies-for-breaking-down-user-stories-in-scrum-with-cheatsheet-2cd9aae7d0eb)
-* 🇬🇧📃 [INVEST User story](https://en.wikipedia.org/wiki/INVEST_(mnemonic))
-* 🇬🇧📃 [User Story Mapping](https://plan.io/blog/user-story-mapping/)
+* 🇬🇧📃 [INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) user story
+* 🇬🇧🎥 Two-dimension backlog with [user story mapping](https://www.youtube.com/watch?v=YumNf61xn5E)
+* 🇬🇧📃 A Guide to [User Story Mapping](https://plan.io/blog/user-story-mapping/)
 
 ## Estimation
 * 🇮🇹🎥 Software metrics and [estimations techniques](https://www.youtube.com/watch?v=gYNIs341O0k) by Marco Fracassi
