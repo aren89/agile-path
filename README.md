@@ -62,6 +62,9 @@ Those are the resources I used to better understand the agile world.
 * 📗 [Large-Scale Scrum: More with LeSS](https://www.amazon.it/Large-Scale-Scrum-More-Less-Signature/dp/0321985710)
 
 ## Organization Design
+* 🇬🇧📃 [Team topologies](https://martinfowler.com/bliki/TeamTopologies.html) an article by Martin Fowler
+  * 🇬🇧📃 [Outcome oriented team](https://martinfowler.com/bliki/OutcomeOriented.html)
+  * 🇬🇧📃 How the structure of the company reflect to teams organization with [ConwaysLaw](https://martinfowler.com/bliki/ConwaysLaw.html)
 * 🇬🇧🎥 [unFIX keynote](https://youtu.be/nDpl15zZQdg) by Jurgen Appelo
 * 🇬🇧📃 Different [teaming options](https://unfix.com/teaming-options)
 * 🇬🇧📃 Three type of [product teams](https://www.linkedin.com/pulse/three-product-teams-john-cutler/)
