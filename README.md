@@ -21,7 +21,7 @@ Those are the resources I used to better understand the agile world.
 * 🇮🇹🎥 [Myths about Scrum Master](https://vimeo.com/414450263) meetup with Pierluigi Pugliese.
 * 🇬🇧🎥 [Confession of a Change Agent Henrik Kniberg](https://www.youtube.com/watch?v=c1W6U2duXdI).
 * 🇬🇧📃 [Inspiration & plan for retrospectives](https://retromat.org/en/)
-* 🇬🇧📃 [Full-time Scrum Master](https://scrummasterchecklist.org/pdf/ScrumMaster_Checklist_12_unbranded.pdf) a daily TODO list for scrum masters.
+* 🇬🇧📃 [Full-time Scrum Master](https://scrummasterchecklist.org/pdf/ScrumMaster-Checklist-2022-02-08-en.pdf) a daily TODO list for scrum masters.
 * 🇬🇧📃 [Three mistakes Scrum Master usually do](https://www.mountaingoatsoftware.com/blog/three-mistakes-scrum-masters-make-and-how-to-correct-them) and how to fix them.
 * 🇮🇹📃 A [retrospective guide](https://www.mokabyte.it/2014/04/01/retrospective-1/) by Pierluigi Pugliese
 * 📗 [Agile Retrospectives: Making Good Teams Great](https://www.amazon.it/gp/product/0977616649/)
