@@ -1,4 +1,4 @@
-# From 0 to hero
+# Study path
 Those are the resources I used to better understand the agile world.
 
 ## Agile mindset
