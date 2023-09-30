@@ -1,4 +1,4 @@
-# Study path
+# Agile path
 Those are the resources I used to better understand the agile world.
 
 ## Agile mindset
