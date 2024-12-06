@@ -72,7 +72,11 @@ Those are the resources I used to better understand the agile world.
 * 📗 [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.it/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
 
 ## Technical Practices
+* 🇬🇧📃 [The Four Elements of Simple Design - J.B. Rainsberger](https://blog.jbrains.ca/permalink/the-four-elements-of-simple-design)
+* 🇬🇧📃 [Keep It DRY, Shy, and Tell the Other Guy - Andy Hunt and Dave Thomas](http://media.pragprog.com/articles/may_04_oo1.pdf)
+* 🇬🇧📃 [You Arent Gonna Need It - Ron Jeffries](http://wiki.c2.com/?YouArentGonnaNeedIt)
 * 🇬🇧📃 [The Cycles of TDD](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
+* 🇮🇹🎥 [Onion Architecture - Matteo Di Tucci](https://www.youtube.com/watch?v=VjNrqU40qH4)
 * 🇬🇧📃 [Integrated Tests Are A Scam - J.B. Rainsberger](https://vimeo.com/80533536) 
 * 📗 [Refactoring: Improving the Design of Existing Code - Martin Fowler](https://amzn.to/3fyboRY)
 * 🇬🇧📃 Martin Fowler on [Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
