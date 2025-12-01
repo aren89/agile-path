@@ -55,6 +55,9 @@ Those are the resources I used to better understand the agile world.
 ## Coaching
 * 📗 [Coaching Agile Teams](https://www.amazon.it/Coaching-Agile-Teams-Scrummasters-Transition/dp/0321637704)
 * 🇬🇧📃 [Shu-Ha-Ri](https://www.scrum.org/resources/blog/shu-ha-ri-professional-coaching) methodology inspired by Aikido masters to teach how to be agile at the scrum team.
+* 📗 [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.it/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
+* 📗 [The Five Dysfunctions of a Team](https://www.amazon.it/dp/B006960LQW)
+* 📗 [Thinking in Systems](https://www.amazon.it/dp/B005VSRFEA)
 
 ## LeSS
 * 🇬🇧🎥 Scaling Agile with Large-Scale Scrum [Craig Larman Keynote video at Ericsonn](https://www.youtube.com/watch?v=Gw1lLt18KzE)
@@ -69,7 +72,7 @@ Those are the resources I used to better understand the agile world.
 * 🇬🇧📃 Different [teaming options](https://unfix.com/teaming-options)
 * 🇬🇧📃 Three type of [product teams](https://www.linkedin.com/pulse/three-product-teams-john-cutler/)
 * 🇬🇧🎥 Have [designers](https://www.youtube.com/watch?v=HdqX4A_3-bA) in the product team by John Cutler
-* 📗 [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.it/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
+* 📗 [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.it/dp/1942788819/)
 
 ## Technical Practices
 * 🇬🇧📃 [The Four Elements of Simple Design - J.B. Rainsberger](https://blog.jbrains.ca/permalink/the-four-elements-of-simple-design)
@@ -77,8 +80,7 @@ Those are the resources I used to better understand the agile world.
 * 🇬🇧📃 [You Arent Gonna Need It - Ron Jeffries](http://wiki.c2.com/?YouArentGonnaNeedIt)
 * 🇬🇧📃 [The Cycles of TDD](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
 * 🇮🇹🎥 [Onion Architecture - Matteo Di Tucci](https://www.youtube.com/watch?v=VjNrqU40qH4)
-* 🇬🇧📃 [Integrated Tests Are A Scam - J.B. Rainsberger](https://vimeo.com/80533536) 
+* 🇬🇧🎥 [Integrated Tests Are A Scam - J.B. Rainsberger](https://vimeo.com/80533536) 
 * 📗 [Refactoring: Improving the Design of Existing Code - Martin Fowler](https://amzn.to/3fyboRY)
 * 🇬🇧📃 Martin Fowler on [Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
-
-
+* 🇬🇧📃 CI with Pull request strategy [Ship / Show / Ask](https://martinfowler.com/articles/ship-show-ask.html)
