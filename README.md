@@ -55,6 +55,7 @@ Those are the resources I used to better understand the agile world.
 ## Coaching
 * 📗 [Coaching Agile Teams](https://www.amazon.it/Coaching-Agile-Teams-Scrummasters-Transition/dp/0321637704)
 * 🇬🇧📃 [Shu-Ha-Ri](https://www.scrum.org/resources/blog/shu-ha-ri-professional-coaching) methodology inspired by Aikido masters to teach how to be agile at the scrum team.
+* 🇬🇧📃 A collection of [Agile Games](https://agilealliance.org/agile-games/)
 * 📗 [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.it/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
 * 📗 [The Five Dysfunctions of a Team](https://www.amazon.it/dp/B006960LQW)
 * 📗 [Thinking in Systems](https://www.amazon.it/dp/B005VSRFEA)
